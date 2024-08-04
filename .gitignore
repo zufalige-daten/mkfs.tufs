@@ -1,0 +1,10 @@
+*.o
+*.bin
+*.elf
+bin/mkfs.tufs
+Session.vim
+compiler_flags.txt
+github-copy.sh
+*.img
+*.iso
+
