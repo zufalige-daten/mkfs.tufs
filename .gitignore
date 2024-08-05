@@ -1,4 +1,4 @@
-*.o
+﻿*.o
 *.elf
 bin/mkfs.tufs
 Session.vim
