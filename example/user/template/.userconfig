@@ -1,0 +1,3 @@
+username = "template"
+shellrc = ".shellrc"
+shell_history = ".shell_history"

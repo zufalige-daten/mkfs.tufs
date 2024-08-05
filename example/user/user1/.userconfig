@@ -1,0 +1,3 @@
+username = "user1"
+shellrc = ".shellrc"
+shell_history = ".shell_history"
