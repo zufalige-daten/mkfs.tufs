@@ -26,3 +26,4 @@ int main(int argc, char **argv){
 	fclose(output_file);
 	return 0;
 }
+
